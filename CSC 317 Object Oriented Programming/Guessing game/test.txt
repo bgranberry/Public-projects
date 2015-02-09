@@ -1,0 +1,17 @@
+Does it have four legs?
+Does it have hair?
+Does it have a horn?
+$
+unicorn
+$
+dog
+Is it a reptile?
+$
+alligator
+$
+frog
+Does it fly?
+$
+hawk
+$
+chicken

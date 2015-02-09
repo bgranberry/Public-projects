@@ -1,0 +1,53 @@
+Is this person fictional?
+Is this person a character in a major video game?
+$
+Mario
+$
+Sherlock Holmes
+Is this person a celebrity?
+Is this person male?
+Does this person appear in films?
+Is this person primarily in comedy films?
+Is this person alive?
+Did this person star in Dumb and Dumber?
+$
+Jim Carrey
+$
+Seth Rogen
+$
+Robin Williams
+Has this person ever played as Batman?
+$
+Christian Bale
+Did this person appear in Game of Thrones?
+$
+Sean Bean
+Did this person star in the movie Taken?
+$
+Liam Neeson
+$
+Hayden Christensen
+Does this person perform in the music industry?
+Was this person in the grunge band Nirvana?
+$
+Dave Grohl
+$
+Kanye West
+Is this person famous for founding Microsoft?
+$
+Bill Gates
+$
+Elon Musk
+Was this person in the film franchise Hunger Games?
+$
+Jennifer Lawrence
+Is this person a book author?
+$
+J. K. Rowling
+Has this person ever run for President?
+$
+Hillary Clinton
+$
+Beyonce
+$
+Charles Stanley
