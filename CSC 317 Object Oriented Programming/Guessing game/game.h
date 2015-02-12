@@ -5,6 +5,7 @@
 #include <iostream>
 #include <cassert>
 #include <string>
+#include <vector>
 #include "bintree.h"
 #include "console.h"
 
@@ -17,14 +18,15 @@ namespace guessingGame
 	{
 	public:
 		gameManager();
-		void play();// const;
+		void play();
+		void play_hints();
 		void read();
 		void write();
-		void write()const;
 	private:
 		binary_tree_node<string> *rootPtr;
 		consoleManager *console;
 		string filename;
+		vector<string> tag_key;
 	};
 
 }

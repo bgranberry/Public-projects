@@ -1,9 +1,21 @@
+Tags:
+0-fictional
+1-male
+2-female
+3-awesome
+4-funny
+5-actor
+6-author
+7-billionaire
+8-musician
+9-deceased
+###
 Is this person fictional?
 Is this person a character in a major video game?
 $
-Mario
+Mario-0 1 3
 $
-Sherlock Holmes
+Sherlock Holmes-0 1 6
 Is this person a celebrity?
 Is this person male?
 Does this person appear in films?
@@ -11,43 +23,43 @@ Is this person primarily in comedy films?
 Is this person alive?
 Did this person star in Dumb and Dumber?
 $
-Jim Carrey
+Jim Carrey-1 4 5
 $
-Seth Rogen
+Seth Rogen-1 5
 $
-Robin Williams
+Robin Williams-1 3 4 5 9
 Has this person ever played as Batman?
 $
-Christian Bale
+Christian Bale-1 5
 Did this person appear in Game of Thrones?
 $
-Sean Bean
+Sean Bean-1 5
 Did this person star in the movie Taken?
 $
-Liam Neeson
+Liam Neeson-1 4 5
 $
-Hayden Christensen
+Hayden Christensen-1 4
 Does this person perform in the music industry?
 Was this person in the grunge band Nirvana?
 $
-Dave Grohl
+Dave Grohl-1 3 8
 $
-Kanye West
+Kanye West-1 8
 Is this person famous for founding Microsoft?
 $
-Bill Gates
+Bill Gates-1 7
 $
-Elon Musk
+Elon Musk-1 3 7
 Was this person in the film franchise Hunger Games?
 $
-Jennifer Lawrence
+Jennifer Lawrence-2 5
 Is this person a book author?
 $
-J. K. Rowling
+J. K. Rowling-2 5
 Has this person ever run for President?
 $
-Hillary Clinton
+Hillary Clinton-2 3
 $
-Beyonce
+Beyonce-2 8
 $
-Charles Stanley
+Charles Stanley-1
